@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/skai/esp-vs/wrover_cam01/build/CMakeFiles/bootloader
+/home/skai/esp-vs/wrover_cam01/build/CMakeFiles/bootloader.rule
+/home/skai/esp-vs/wrover_cam01/build/CMakeFiles/bootloader-complete.rule
+/home/skai/esp-vs/wrover_cam01/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/skai/esp-vs/wrover_cam01/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/skai/esp-vs/wrover_cam01/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/skai/esp-vs/wrover_cam01/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/skai/esp-vs/wrover_cam01/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/skai/esp-vs/wrover_cam01/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/skai/esp-vs/wrover_cam01/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
